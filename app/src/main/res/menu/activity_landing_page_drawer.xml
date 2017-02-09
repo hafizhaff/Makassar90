@@ -5,14 +5,14 @@
         <item
             android:id="@+id/nav_schedule"
             android:icon="@drawable/ic_menu_camera"
-            android:title="Schedule" />
-        <item
-            android:id="@+id/nav_map"
-            android:icon="@drawable/ic_menu_gallery"
-            android:title="Map" />
+            android:title="LINE UP" />
         <item
             android:id="@+id/nav_bandlist"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="ARTIST" />
+        <item
+            android:id="@+id/nav_map"
             android:icon="@drawable/ic_menu_slideshow"
-            android:title="Band List" />
+            android:title="MAP" />
     </group>
 </menu>
